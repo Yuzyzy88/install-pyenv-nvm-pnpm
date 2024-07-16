@@ -1,5 +1,7 @@
 # Install pyenv and python
 
+Pyenv allows you to set a global version that is used regardless of which directory you are issuing the Python command from.  pyenv is a wonderful tool for managing multiple Python versions
+
 ### 1. [Install python build dependencies](https://github.com/pyenv/pyenv/wiki#suggested-build-environment)
 
 This to update the list of available packages 'apt update' and then install a set of development tools and libraries 'apt install' that are commonly needed for building software from source code:
